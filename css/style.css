@@ -59,7 +59,7 @@ body {
 
 /* Для всех элементов меню кроме последнего */
 .header-menu__item:not(:last-child) {
-    margin-right: 38px;
+    margin-right: 36px;
 }
 
 .header-menu__link {
